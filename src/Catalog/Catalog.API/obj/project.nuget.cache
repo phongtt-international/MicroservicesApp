@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hsrAl5ipm7EtldzEeiiODJQjE+pYZm+tbeMJFFytL9vSMSSuwtKvEoJrsKfihkNYCi7HFU1oBqljx8hAUsldIg==",
+  "dgSpecHash": "qNh1IxYnYphi9Q6id9Wr1uLst8FrDtIdd89lfRq1/7WVCDPBSleRNAe7HEXPdHD7fJfV8qE9HLoDeWSpQPkqLw==",
   "success": true,
   "projectFilePath": "F:\\App\\MicroservicesApp\\src\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\mongodb.driver\\2.11.5\\mongodb.driver.2.11.5.nupkg.sha512",
