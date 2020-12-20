@@ -1,3 +1,7 @@
+using Catalog.API.Data;
+using Catalog.API.Data.Interfaces;
+using Catalog.API.Repositories;
+using Catalog.API.Repositories.Interfaces;
 using Catalog.API.Settings;
 using Catalog.API.Settings.Interfaces;
 using Microsoft.AspNetCore.Builder;
@@ -32,6 +36,10 @@ namespace Catalog.API
             // sp => Service Provider, IOptions pattern
             services.AddSingleton<ICatalogDatabaseSettings>(sp =>
                 sp.GetRequiredService<IOptions<CatalogDatabaseSettings>>().Value);
+
+            services.AddTransient<ICatalogContext, CatalogContext>();
+            services.AddTransient<IProductRepository, ProductRepository>();
+
             services.AddControllers();
         }
 
