@@ -1,3 +1,7 @@
+using Basket.API.Data;
+using Basket.API.Data.Interfaces;
+using Basket.API.Repositories;
+using Basket.API.Repositories.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -34,6 +38,11 @@ namespace Basket.API
                 return ConnectionMultiplexer.Connect(configuration);
             });
 
+            #endregion
+            #region Project Dependencies
+
+            services.AddTransient<IBasketContext, BasketContext>();
+            services.AddTransient<IBasketRepository, BasketRepository>();
             #endregion
 
         }
