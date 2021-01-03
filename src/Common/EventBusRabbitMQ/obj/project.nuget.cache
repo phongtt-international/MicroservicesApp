@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "74NCHUBWp04grw+PuHuqcahubXc7QsEKa+/9puKACzw1xDn39tZ98sS41wNOLjKQKEsSVZBQc+TCDPr4EoJ0FA==",
+  "dgSpecHash": "ewmVj3c+tJMUtVXyKa2FEATtbWcOZVqht2n1uQFRRpPdOyWNEpi9WyEd+sTlnctvqvw8i9qtuSPsZ3QIzNOISg==",
   "success": true,
   "projectFilePath": "F:\\App\\MicroservicesApp\\src\\Common\\EventBusRabbitMQ\\EventBusRabbitMQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
