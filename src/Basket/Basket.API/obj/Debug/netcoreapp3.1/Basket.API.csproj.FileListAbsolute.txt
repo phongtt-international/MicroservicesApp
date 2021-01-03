@@ -48,3 +48,7 @@ F:\App\MicroservicesApp\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API
 F:\App\MicroservicesApp\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.dll
 F:\App\MicroservicesApp\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.pdb
 F:\App\MicroservicesApp\src\Basket\Basket.API\obj\Debug\netcoreapp3.1\Basket.API.genruntimeconfig.cache
+F:\App\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+F:\App\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+F:\App\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+F:\App\MicroservicesApp\src\Basket\Basket.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
