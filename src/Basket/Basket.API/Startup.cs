@@ -1,3 +1,4 @@
+using AutoMapper;
 using Basket.API.Data;
 using Basket.API.Data.Interfaces;
 using Basket.API.Repositories;
@@ -34,6 +35,7 @@ namespace Basket.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddAutoMapper(typeof(Startup));
             #region Redis Dependencies
 
             services.AddSingleton<ConnectionMultiplexer>(sp =>
