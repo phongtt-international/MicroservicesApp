@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "An+nfL4FSBWXN+37VF88YaXGxN0GMtYJMMjt4MQVILOMb3y2dge98mLhGCxgLR3ipqcT9bdlnbbOSu4/lxTMqg==",
+  "dgSpecHash": "hxJ9Duw+Ohz9fRVItpxv6JfqNSV926qgJWD/fJ3sYzEIekbnb9iCZtehpLxlSEXIG17Uqypves5VbolqCIeZuA==",
   "success": true,
   "projectFilePath": "F:\\App\\MicroservicesApp\\src\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
