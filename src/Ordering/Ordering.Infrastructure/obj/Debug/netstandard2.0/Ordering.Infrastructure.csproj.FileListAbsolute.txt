@@ -1,0 +1,4 @@
+F:\App\MicroservicesApp\src\Ordering\Ordering.Infrastructure\bin\Debug\netstandard2.0\Ordering.Core.dll
+F:\App\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.csprojAssemblyReference.cache
+F:\App\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+F:\App\MicroservicesApp\src\Ordering\Ordering.Infrastructure\obj\Debug\netstandard2.0\Ordering.Infrastructure.AssemblyInfo.cs
